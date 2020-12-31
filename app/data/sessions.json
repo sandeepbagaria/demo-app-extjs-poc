@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1081,
+            "approved": true,
+            "title": "Dummy1",
+            "sessionTimeDateTime": "2013-10-06T13:15:00"
+        },
+        {
+            "id": 1082,
+            "approved": true,
+            "title": "Dummy2",
+            "sessionTimeDateTime": "2013-10-06T13:15:00"
+        },
+        {
+            "id": 1083,
+            "approved": true,
+            "title": "Dummy3",
+            "sessionTimeDateTime": "2013-10-06T13:15:00"
+        },
+        {
+            "id": 1084,
+            "approved": true,
+            "title": "Dummy4",
+            "sessionTimeDateTime": "2013-10-06T13:15:00"
+        }
+    ]
+}

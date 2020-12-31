@@ -1,0 +1,48 @@
+{
+    "data": [
+    {
+    "id": "1",
+    "jobTitleName": "Developer",
+    "firstName": "Romin",
+    "lastName": "Irani",
+    "preferredFullName": "Romin Irani",
+    "employeeCode": "E1",
+    "region": "CA",
+    "phoneNumber": "408-1234567",
+    "emailAddress": "romin.k.irani@gmail.com"
+    },
+    {
+    "id": "2",
+    "jobTitleName": "Developer",
+    "firstName": "Neil",
+    "lastName": "Irani",
+    "preferredFullName": "Neil Irani",
+    "employeeCode": "E2",
+    "region": "CA",
+    "phoneNumber": "408-1111111",
+    "emailAddress": "neilrirani@gmail.com"
+    },
+    {
+    "id": "3",
+    "jobTitleName": "Program Directory",
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "preferredFullName": "Tom Hanks",
+    "employeeCode": "E3",
+    "region": "CA",
+    "phoneNumber": "408-2222222",
+    "emailAddress": "tomhanks@gmail.com"
+    },
+    {
+        "id": "4",
+        "jobTitleName": "Developer",
+        "firstName": "Sandeep",
+        "lastName": "Bagaria",
+        "preferredFullName": "Sandeep Bagaria",
+        "employeeCode": "E4",
+        "region": "CA",
+        "phoneNumber": "408-1267632",
+        "emailAddress": "sandb@gmail.com"
+        }
+    ]
+    }
